@@ -1,8 +1,7 @@
 [submodule "pos_bir_cpti"]
 	path = pos_bir_cpti
 	url = git@github.com:courtesypoint/pos_bir.git
-	branch = v16/3.1.47-fbd
-	
+	branch = v16/3.1.47-fbd	
 [submodule "report_excel"]
 	path = report_excel
 	url = git@github.com:courtesypoint/odoo-common.git
